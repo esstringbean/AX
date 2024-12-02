@@ -4,8 +4,7 @@ Use Ax and get a streaming, multi-modal DSPy framework with agents and typed sig
 
 
 [![NPM Package](https://img.shields.io/npm/v/@ax-llm/ax?style=for-the-badge&color=green)](https://www.npmjs.com/package/@ax-llm/ax)
-[![Discord Chat](https://dcbadge.vercel.app/api/server/DSHg3dU7dW?style=for-the-badge)](https://discord.gg/DSHg3dU7dW)
-[![Twitter](https://img.shields.io/twitter/follow/dosco?style=for-the-badge&color=red)](https://twitter.com/dosco)
+[![Twitter](https://img.shields.io/twitter/follow/AxFramework?style=for-the-badge&color=red)](https://twitter.com/AXFramework)
 
 ![image](https://github.com/ax-llm/ax/assets/832235/3a250031-591c-42e0-b4fc-06afb8c351c4)
 
@@ -13,7 +12,7 @@ Use Ax and get a streaming, multi-modal DSPy framework with agents and typed sig
 
 While we're focused on building agents, Ax has all the tools needed to quickly build powerful and production ready workflows with LLMs
 
-![image](https://github.com/ax-llm/ax/assets/832235/801b8110-4cba-4c50-8ec7-4d5859121fe5)
+![image](https://github.com/esstringbean/ax/assets/832235/801b8110-4cba-4c50-8ec7-4d5859121fe5)
 
 ## Why use Ax?
 
